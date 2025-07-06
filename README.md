@@ -101,7 +101,7 @@
 
 <h3 align="center">"The best way to predict the future is to create it."</h3>
 <p align="center">
-  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)" width="100" alt="Coding Gif">
+  <img src="[[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/giphy.gif)" width="100" alt="Coding Gif">
 </p>
 
 ---
