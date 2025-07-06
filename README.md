@@ -1,77 +1,103 @@
-# Sarthak Bose
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+👋;This+is+Sarthak+Bose;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;&center=true&size=30">
+  </a>
+</h1>
 
-**Full Stack Developer** | **MERN Stack Specialist** | **ECE Undergraduate**
-
-Building scalable web applications with modern technologies and clean architecture principles.
-
----
-
-## About
-
-I'm a final-year Electronics and Communication Engineering student at Netaji Subhas Engineering College, Kolkata, with a strong focus on full-stack web development. I specialize in building robust, scalable applications using the MERN stack and modern development practices.
-
-**Current Focus:** Building enterprise-grade web applications with emphasis on performance, scalability, and maintainable code architecture.
+<h3 align="center">Building Scalable Web Applications with Modern Tech</h3>
 
 ---
 
-## Technical Expertise
+## 🚀 About Me  
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+🎓 I’m a **4th year ECE undergrad** at Netaji Subhas Engineering College (Kolkata) with a strong passion for **web development** and scalable backend systems.  
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+🌐 I specialize in **full-stack development** using **MERN/Next.js stack**, building robust REST APIs, and deploying to the cloud.  
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+🏆 **Recognitions**:  
+- 🥇 *Top 10 Finalist* – IIT Bombay Techfest 2024 (Sanrakshan Track).  
+- 🥈 *Top 10 Finalist* – Supply Connect Challenge 2024.  
 
-### Database & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Cloud & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+📫 Reach me at:  
+<a href="mailto:sarthakofficial2005@email.com">
+<img src="https://img.shields.io/badge/Email-sarthakofficial2005%40email.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>  
 
 ---
 
-## Notable Achievements
-
-🏆 **Top 10 Finalist** - IIT Bombay Techfest 2024 (Sanrakshan Track)  
-🏆 **Top 10 Finalist** - Supply Connect Challenge 2024
-
----
-
-## GitHub Analytics
-
+# 💻 Tech Stack:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyber-Bose&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Bose&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
+  </a>
+  <br><br>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  </a>
+  <br><br>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Bose&theme=default&hide_border=true"/>
-</div>
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Cyber-Bose&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49.5%" src="https://streak-stats.demolab.com?user=Cyber-Bose&theme=github-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Bose&theme=github_dark&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-## Professional Contact
-
-📧 **Email:** [sarthakofficial2005@email.com](mailto:sarthakofficial2005@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/sarthak-bose-690482267](https://linkedin.com/in/sarthak-bose-690482267/)  
-🐙 **GitHub:** [github.com/Cyber-Bose](https://github.com/Cyber-Bose)
-
----
-
-*"Building tomorrow's web experiences with today's best practices."*
+# 📞 Connect With Me:
+<p align="center">
+  <a href="https://linkedin.com/in/sarthak-bose-690482267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sarthakofficial2005@email.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Cyber-Bose" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-⭐ **Open to collaboration** on interesting projects and full-time opportunities in full-stack development.
+<h3 align="center">"Clean code and scalable systems are my superpowers." 🧑‍💻</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif">
+</p>
