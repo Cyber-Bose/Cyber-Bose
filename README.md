@@ -1,76 +1,102 @@
-# 💫 About Me:
-🎓 Electronics and Communication Engineering  
-💻 Aspiring Full Stack Web Developer with a passion for both frontend and backend technologies  
-🚀 Focused on building scalable, user-centric web applications  
-🌱 Currently exploring Advanced Web Frameworks, Blockchains & DSA problem-solving
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+👋;This+is+Sarthak+Bose;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;&center=true&size=30">
+  </a>
+</h1>
 
-![gitartwork](gitartwork.svg)
+<h3 align="center">Building the Web, One Stack at a Time</h3>
 
----
+<img align="right" alt="Web Development" width="400" height="300" src="img 2.jpg">
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakbose-professional/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakofficial2005@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesound.company)
+## 🚀 About Me  
 
----
+💻 I’m a **3rd year ECE undergrad** with a deep passion for **web development** and building scalable, robust backend systems.  
 
-## 💻 Tech Stack:
-**Languages:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+🌐 Skilled in crafting **full-stack web applications** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+🔧 Currently exploring **backend technologies**, REST APIs, and databases to power modern web apps.  
 
-**Backend & Tools:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+🚀 Worked on projects like **SoilSense-AI (an AI-driven land reclamation platform)**, **ResumeForge (a Next.js resume builder)**, and **multi-player guessing games with chatrooms**.  
 
-**Database & DevOps:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  
+🏆 Finalist in national hackathons and building side projects to solve real-world problems.  
 
-**Blockchain:**  
-![Solana](https://img.shields.io/badge/Solana-%23208F94.svg?style=for-the-badge&logo=solana&logoColor=white)  
-![Metamask](https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white)  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+📫 Reach me at:  
+<a href="mailto:sarthakbose@example.com">
+<img src="https://img.shields.io/badge/Email-sarthakbose%40example.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
 
 ---
 
-## 🏆 Achievements:
-- **Top 10 Finalist** in the **Sanrakshan** and **Supply Connect** categories at **IIT Bombay Techfest**.
+# 💻 Tech Stack:
+<div class="tech-stack">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-bottom: 4px;" />
+  </a>
+</div>
 
 ---
 
-## 🧠 Problem Solving
-- ✅ Solved 80+ DSA problems on [LeetCode](https://leetcode.com/u/12sci1025sarthakbose/)  
-- 💡 Continuously improving problem-solving and algorithmic thinking
+# 📊 GitHub Stats:
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sarthakbose&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbose&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakbose&theme=radical&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Bose&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Bose&theme=dark&hide_border=false&layout=compact)
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthakbose&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Cyber-Bose&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👁️ Visitor's Count 
+<p>
+  <img src="https://profile-counter.glitch.me/{sarthakbose}/count.svg" alt="Sarthak Bose:: Visitor's Count" />
+</p>
 
-<!-- Made with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 📞 Connect With Me:
+<p align="center">
+  <a href="https://www.instagram.com/sarthakbose/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sarthakbose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sarthakbose@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<h3 align="center">"Code is like humor. When you have to explain it, it’s bad."</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Coding Gif">
+</p>
+
+---
