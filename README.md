@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Cyber-Bose&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
