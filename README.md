@@ -88,7 +88,7 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/12sci1025sarthakbose?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
