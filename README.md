@@ -6,10 +6,6 @@
 
 <h3 align="center">Building Scalable Web Applications with Modern Tech</h3>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Cyber-Bose/count.svg" alt="Profile Visitor Counter" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -132,4 +128,8 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif">
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Cyber-Bose/count.svg" alt="Profile Visitor Counter" />
 </p>
